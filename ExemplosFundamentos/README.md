@@ -1,1 +1,1 @@
-# Diretório sobre aula do bootcamp de .NET, ensinando a manipular classes.
+# Diretório sobre aulas de fundamentos de C# e .NET.
